@@ -1,0 +1,120 @@
+.form-container {
+  width: 40%;
+  margin: 50px auto;
+  padding: 40px;
+  background-color: #f4f6f9;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+  font-size: 26px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.form-group {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.form-group .left,
+.form-group .right {
+  width: 48%;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #555;
+  font-weight: 600;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 16px;
+  box-sizing: border-box;
+  transition: border-color 0.3s;
+}
+
+input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+button {
+  width: 70%;
+  padding: 12px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 30px;
+  border-radius: 6px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+.bouton {
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  background-color: #343a40;
+  padding: 20px 0;
+  border-bottom: 2px solid #6c757d;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+.menu li {
+  display: inline-block;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: #f8f9fa;
+  font-size: 16px;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.menu li a:hover {
+  background-color: #495057;
+}
+
+

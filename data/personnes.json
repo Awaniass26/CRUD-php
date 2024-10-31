@@ -1,0 +1,30 @@
+[
+    {
+        "nom": "Diop",
+        "prenom": "awa ibrahima",
+        "adresse": "fass",
+        "telephone": "778654309",
+        "id": 1
+    },
+    {
+        "nom": "diop",
+        "prenom": "yaye",
+        "adresse": "mbour",
+        "telephone": "778909987",
+        "id": 2
+    },
+    {
+        "nom": " nn",
+        "prenom": "mm",
+        "adresse": "pppp",
+        "telephone": "7702222222",
+        "id": 3
+    },
+    {
+        "nom": "Kake",
+        "prenom": "Hawa",
+        "adresse": "nanganougou",
+        "telephone": "776554321",
+        "id": 4
+    }
+]
